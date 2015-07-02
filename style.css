@@ -1,9 +1,12 @@
+head,
+
+head {
+  background: url(/railroad.jpg)
+}
+
 body,
 p {
   margin: 0;
-}
-head {
-  background: url(/railroad.jpg)
 }
 h1 {
   margin-top: 25;
