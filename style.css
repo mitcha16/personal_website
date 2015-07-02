@@ -4,9 +4,8 @@ p {
 }
 head {
   background: url(/railroad.jpg)
-
 }
 h1 {
   margin-top: 25;
-  color: blue
+  color: red
 }
