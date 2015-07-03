@@ -1,5 +1,5 @@
 body{
-  background-image: url("texture.jpg");
+  background-image: url("citytexture.jpg");
 }
 
 #header_image {
@@ -19,6 +19,7 @@ h1 {
 }
 
 section {
+  color: white;
   float: left;
   margin: 1.5%;
   width: 63%;
