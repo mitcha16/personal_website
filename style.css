@@ -6,6 +6,7 @@ head {
 h1 {
   margin-top: 25;
   color: blue;
+  background-image: url("railroad.jpg");
 }
 
 body,
