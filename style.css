@@ -1,3 +1,6 @@
+body{
+  background-repeat: url("texture.jpg");
+}
 
 header {
   background-image: url("railroad.jpg");
