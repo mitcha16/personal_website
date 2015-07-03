@@ -2,8 +2,8 @@
 header {
   background-image: url("railroad.jpg");
   margin: 0 10%;
-  width: 25%;
-  height: 25%;
+  width: 80%;
+  height: 75%;
 }
 h1 {
   margin-top: 25;
@@ -11,13 +11,13 @@ h1 {
 }
 
 section {
-  margin-top: 80%;
   float: left;
   margin: 1.5%;
   width: 63%;
 }
 
 aside {
+  top: 50px;
   float: right;
   margin: 0 1.5%;
   width: 30%;
