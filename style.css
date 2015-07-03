@@ -47,6 +47,7 @@ section {
 
 
 .box {
+  margin: 50px;
   float:left;
   width: 20%;
   margin: 0 auto;
