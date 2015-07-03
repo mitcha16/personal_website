@@ -40,7 +40,6 @@ section {
 
 
 .box {
-  margin: 50px;
   float:left;
   width: 20%;
   margin: 0 auto;
@@ -53,6 +52,7 @@ section {
 }
 
 .button {
+  margin: -35px;
   font-size: 1em;
   padding: 10px;
   color: #fff;
