@@ -11,10 +11,10 @@ html{
 
 body {
   margin: 0 auto;
+  width: 1000px;
 }
 
 h1 {
-  text-align: center;
   color: white;
   font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
   letter-spacing: 2px;
