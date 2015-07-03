@@ -39,20 +39,15 @@ ul{
 
 }
 section {
-  color: white;
   text-align: center;
-  margin: 1.5%;
-  width: 63%;
-}
-
-aside {
-  text-align: right;
   top: 50px;
   margin: 0 1.5%;
   width: 30%;
 }
 
+
 .box {
+  float:right;
   width: 20%;
   margin: 0 auto;
   background: rgba(255,255,255,0.2);
@@ -83,8 +78,8 @@ aside {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.7);
-  transition: opacity 500ms;
+  background: rgba(0, 0, 0, 0.9);
+  transition: opacity 250ms;
   visibility: hidden;
   opacity: 0;
 }
@@ -96,17 +91,18 @@ aside {
 .popup {
   margin: 70px auto;
   padding: 20px;
-  background: #fff;
+  background-image: url("blue.jpg")
   border-radius: 5px;
   width: 30%;
   position: relative;
   transition: all 5s ease-in-out;
 }
 
-.popup h2 {
+.popup h3 {
   margin-top: 0;
-  color: #333;
+  color: white;
   font-family: font-family: Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
+  font-weight: bold;
 }
 .popup .close {
   position: absolute;
@@ -116,12 +112,14 @@ aside {
   font-size: 30px;
   font-weight: bold;
   text-decoration: none;
-  color: #333;
+  color: #E6E6E6;
 }
 .popup .close:hover {
   color: #00246B;
 }
 .popup .content {
+  color: white;
   max-height: 30%;
   overflow: auto;
+  font-family: font-family: Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia, serif;
 }
