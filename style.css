@@ -1,7 +1,7 @@
 head,
 
 head {
-  background-image: url(railroad.jpg)
+  background-image: url("railroad.jpg")
 }
 h1 {
   margin-top: 25;
