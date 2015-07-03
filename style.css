@@ -10,9 +10,9 @@ html{
 }
 
 body {
-  margin: auto auto;
-  width: 1000px;
-  height: 1000px;
+  margin: 0 0;
+  /*width: 1000px;
+  height: 1000px;*/
 }
 
 h1 {
