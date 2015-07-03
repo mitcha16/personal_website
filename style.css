@@ -90,6 +90,7 @@ section {
 }
 
 .popup {
+  box-shadow: -20px -20px 20px rgba(0, 0, 0, 0.4);
   margin: 70px auto;
   padding: 20px;
   background-image: url("blue.jpg");
