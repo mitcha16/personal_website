@@ -51,7 +51,7 @@ a:visited{
 }
 a:hover{
   color: white;
-   font-size: 18px;
+  font-size: 18px;
 }
 
 .box {
@@ -68,6 +68,7 @@ a:hover{
 }
 
 .button {
+  background: #00297A;
   font-weight: bolder;
   margin: -35px;
   font-size: 1em;
