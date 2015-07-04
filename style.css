@@ -25,6 +25,7 @@ html{
 h1 {
   text-align: center;
   color: white;
+  font-size: 44px;
   font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
   letter-spacing: 2px;
 }
