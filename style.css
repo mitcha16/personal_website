@@ -99,7 +99,7 @@ a:hover{
 }
 
 .popup {
-  box-shadow: inset 0px 0px 20px 14px rgba(23, 68, 124, 0.4);
+  box-shadow: 0px 0px 20px 14px rgba(23, 68, 124, 0.4);
   margin: 110px auto;
   padding: 20px;
   background-image: url("blue.jpg");
