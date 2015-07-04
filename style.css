@@ -41,15 +41,15 @@ section {
   width: 30%;
 }
 
-a.link{
+a:link{
   color: white;
   font-style: italic;
 }
-a.visited{
+a:visited{
   color: #CC9900;
   font-style: italic;
 }
-a.hover{
+a:hover{
   color: white;
   font-size: 18px;
 }
