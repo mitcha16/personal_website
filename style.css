@@ -35,6 +35,7 @@ ul{
   font-size: 14px;
 }
 section {
+  margin: 0 auto;
   text-align: center;
   padding-top: 19%;
   width: 30%;
