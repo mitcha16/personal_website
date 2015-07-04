@@ -25,9 +25,10 @@ html{
 h1 {
   text-align: center;
   color: white;
-  font-size: 45px;
-  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
-  letter-spacing: 2.5px;
+  font-size: 44px;
+  font-weight: bolder;
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  letter-spacing: 2px;
 }
 
 p{
