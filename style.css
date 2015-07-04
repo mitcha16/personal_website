@@ -7,6 +7,7 @@ html{
   background-color: #254A00;
   max-width: 100%;
   max-height: 100%;
+
 }
 .center{
   position: absolute;
@@ -16,7 +17,9 @@ html{
   bottom: 0;
   left: 0;
   width: 750px;
-  height: 200px;
+  height: 300px;
+  max-height: 100%;
+  max-width: 100%;
 }
 
 h1 {
@@ -33,10 +36,10 @@ ul{
 }
 section {
   text-align: center;
-  top: 50px;
-  margin: 0 1.5%;
+  padding-top: 19%;
   width: 30%;
 }
+
 
 
 .box {
